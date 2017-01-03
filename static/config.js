@@ -8,8 +8,8 @@ var spreadsheetId = "1gPy-ltVdPtjMSRn-MQieaT4snj2l87u-E8iOdyLQOFs";
 // Position of Breedables, Shinies and Wants worksheet
 // ***********************************************************************************
 // If you don't have one worksheet, set the value to -1 to disable it
-var breedablesWorksheet = 1;
-var shiniesWorksheet = 2;
+var breedablesWorksheet = 2;
+var shiniesWorksheet = 1;
 var wantsWorksheet = 3;
 var itemsWorksheet = 4;
 
