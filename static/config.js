@@ -11,6 +11,7 @@ var spreadsheetId = "1gPy-ltVdPtjMSRn-MQieaT4snj2l87u-E8iOdyLQOFs";
 var breedablesWorksheet = 1;
 var shiniesWorksheet = 2;
 var wantsWorksheet = 3;
+var itemsWorksheet = 4;
 
 // ***********************************************************************************
 // Your FC and IGN
